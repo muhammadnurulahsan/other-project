@@ -1,0 +1,39 @@
+.custom-navlink {
+  text-decoration: none;
+  font-family: open sans, sans-serif;
+  font-size: 18px;
+}
+
+.custom-navlink:hover {
+  color: #B67D61 !important;
+}
+
+.top-font {
+  font-family: "Open Sans", sans-serif;
+}
+
+.custom-color {
+  background-color: #4a515b;
+}
+
+.dropdown {
+  text-decoration: none;
+}
+
+div a {
+  text-decoration: none;
+}
+
+.header-text {
+  background-color: #484c54;
+}
+
+.nav-color {
+  background-color: #f7f6f3;
+}
+.login-text {
+  font-size: 15px;
+}
+.cursor {
+  cursor: pointer;
+}

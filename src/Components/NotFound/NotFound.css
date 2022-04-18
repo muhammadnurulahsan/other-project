@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Martel:wght@900&display=swap");
+
+.not-found-text {
+  font-family: "Libre Baskerville", Sans-serif;
+  font-size: 34px;
+  font-weight: 500;
+  margin-top: 30px;
+}
+.number-text {
+  color: #9c380c;
+  font-family: "Martel", Sans-serif !important;
+  font-size: 220px;
+  font-weight: 900;
+}
+.custom-margin {
+  margin-top: 120px;
+}
+
+.error-msg {
+  font-family: "Open Sans", sans-serif !important;
+  font-size: 18px;
+  font-weight: 300;
+}
